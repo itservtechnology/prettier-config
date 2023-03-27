@@ -1,6 +1,6 @@
 {
   "name": "@itservtechnology/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.json",
   "repository": "git@github.com:itservtechnology/prettier-config.git",
   "author": "Ömer HAMZA <omer.hamza@itserv.com.tr",
