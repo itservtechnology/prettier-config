@@ -46,7 +46,7 @@ Prettier kontrolleri ve düzeltmeleri için `package.json` dosyanıza betikler e
 }
 ```
 
-`prettier:check` betiği dosyalarınızı biçimlendirme hataları için kontrol edecek ve `prettier:format` betiği dosyalarınızı Prettier yapılandırmanıza uygun olarak otomatik biçimlendirecektir. Bu betikleri aşağıdaki gibi `yarn run` komutunu kullanarak çalıştırabilirsiniz:
+`prettier:check` betiği dosyalarınızı biçimlendirme hataları için kontrol edecek ve `prettier:fix` betiği dosyalarınızı Prettier yapılandırmanıza uygun olarak otomatik biçimlendirecektir. Bu betikleri aşağıdaki gibi `yarn run` komutunu kullanarak çalıştırabilirsiniz:
 
 ```bash
 yarn run prettier:check
